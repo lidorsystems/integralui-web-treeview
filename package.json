@@ -1,0 +1,31 @@
+{
+  "name": "integralui-web-treeview",
+  "version": "20.2.1",
+  "description": "IntegralUI Web Lite - TreeView is a native Web Component that can help you to create and modify hierarchical structures on the fly",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lidorsystems/integralui-web-treeview.git"
+  },
+  "keywords": [
+    "components",
+    "integralui",
+    "treeview",
+    "tree",
+    "ui",
+    "web",
+    "web-components",
+    "javascript",
+    "angular",
+    "react",
+    "vue"
+  ],
+  "author": "Lidor Systems",
+  "license": "SEE LICENSE in LICENSE.md",
+  "homepage": "https://github.com/lidorsystems/integralui-web-treeview",
+  "bugs": {
+    "url": "https://github.com/lidorsystems/integralui-web-treeview/issues"
+  }
+}
