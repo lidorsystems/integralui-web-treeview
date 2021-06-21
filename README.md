@@ -22,7 +22,7 @@ Here is a brief overview of what is included:
 
 ## DEMO
 
-[Online QuickStart App](https://www.lidorsystems.com/products/web/studio/samples/web-components/) - An online demo of TreeView component is available here
+[Online QuickStart App](https://www.lidorsystems.com/products/web/studio/samples/) - An online demo of TreeView component is available here
 
 
 ## Installation
